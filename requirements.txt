@@ -7,7 +7,7 @@ openvino
 pandas
 Pillow
 protobuf
-PyYAML=
+PyYAML
 requests
 scipy
 seaborn
